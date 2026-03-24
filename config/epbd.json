@@ -1,6 +1,6 @@
 [
   {
-    "name": "epbd",
+    "name": "EPBD",
     "type": "ap",
     "eap": "EPBD.eap",
     "diagram": "OSLO-EPBD2-v2",
