@@ -12,7 +12,6 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "MijnKolom",
     "site": "site-skeleton/EPBD",
-    "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mijnThema/issues",
-    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/"
+    "feedbackurl": "https://github.com/Informatievlaanderen/oslothema-EPBD/issues"
   }
 ]
